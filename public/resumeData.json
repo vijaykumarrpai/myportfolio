@@ -1,0 +1,152 @@
+{
+    "main": {
+      "name": "Vijaykumar R Pai",
+      "occupation": "Full Stack Web Developer | Former Intern at Nokia | MCA Graduate",
+      "description": "I can build and deploy Web Applications on the cloud of MERN stack. Also, comfortable working with Data Science / Machine Learning.",
+      "image": "profilepic.jpg",
+      "bio": "I am a Foodie, Auto Enthusiast, Traveler, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building web applications with MERN stack.",
+      "contactmessage": "Feel free to contact me",
+      "email": "vijaykumarrpai@gmail.com",
+      "phone": "+91-8861372156",
+      "address":{
+        "street": "Electronic City",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zip":  "560100"
+      },
+      "website": "",
+      "resumedownload": "https://drive.google.com/file/d/11MnHJ5n8ld0SkuFcLBtBPY6P7mqK-vlg/view",
+      "social":[
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/vijaykumarr.pai/",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/Vijaykumarrpai",
+          "className": "fa fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/vijaykumarrpai/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/that_konkan_boy/",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/vijaykumarrpai",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage": "Some of my skills which I am fond of",
+      "education":[
+        {
+          "school": "PES University, Bangalore",
+          "degree": "Master of Computer Applications",
+          "graduated": "July 2020",
+          "description": "Specialized in Data Science. Learned in-depth about Web Development, Machine Learning, IoT, Cloud Computing."
+        },
+        {
+          "school": "T.John College, Bangalore",
+          "degree": "Bachelor of Computer Applications",
+          "graduated": "May 2016",
+          "description": "Learned about Computer and how applications can be developed."
+        }
+      ],
+      "work":[
+        {
+          "company": "Nokia",
+          "title": "Student Trainee",
+          "years": "January 2020 - July 2020",
+          "description": "Generated Sub Function, Log Level, Actual Log Print and Number of Occurrences from the LTE L2, LTE L3 and OAM Log files and generated report using Python and their supporting libraries like Numpy, Pandas etc to analyze the call load on the server."
+        }
+      ],
+      "skills":[
+        {
+          "name": "Python (Data Science)",
+          "level": "70%"
+        },
+        {
+          "name": "Java",
+          "level": "60%"
+        },
+        {
+          "name": "React.Js",
+          "level": "60%"
+        },
+        {
+          "name": "Git",
+          "level": "70%"
+        },
+        {
+          "name": "Machine Learning",
+          "level": "70%"
+        },
+        {
+          "name": "Iot",
+          "level": "60%"
+        },
+        {
+          "name": "Cloud Computing",
+          "level": "60%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title": "Simple Weather App",
+          "category": "A simple weather app that allows you to get current weather forecast based on the city the user enters.",
+          "image": "simple-weather-app.png",
+          "url": "https://vijaykumarrpai.github.io/simple-weather-app/"
+        },
+        {
+          "title": "Caption Generator",
+          "category": "Caption Generator is a Machine Learning Application that identifies the action portrayed in the given image. The generated caption will describe about the image that will say what kind of actions is taking place in it. This project involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.",
+          "image": "caption-generator.png",
+          "url": "https://github.com/vijaykumarrpai/Caption-Generator"
+        },
+        {
+          "title": "Bulk Email Aggregator",
+          "category": "Bulk Email Aggregator is a web application that is used to provide a paid service to the end user who is CRM. This will enable them to send bulk emails for collecting feedback of their own electronic products once they do payment through the Stripe payment gateway. With the use of Google OAuth authentication, we have enhanced the authentication in the app.",
+          "image": "bulk-email-aggregator.png",
+          "url": "https://github.com/vijaykumarrpai/bulk-email-aggregator"
+        },
+        {
+          "title": "Alligator",
+          "category": "An IOT Project developed to monitor hostile activities in the militarized zone. As soon as the PIR sensor detects some motion, it activates the camera and starts monitoring the environment. If the activity seems to be suspicious, the camera captures the image and stores it onto the cloud for future investigation. Simultaneously it will alert the authorities to take necessary actions.",
+          "image": "alligator.png"
+        },
+        {
+          "title": "Optimizing Courier Delivery System",
+          "category": "A full stack web application that can be used by delivery executives to get optimized route among list of addresses. Developed important features like admin panel, agent panel with integrated Google Maps.",
+          "image":"optimizing-courier-delivery-system.png",
+          "url": "https://github.com/vijaykumarrpai/courier-system"
+        }
+      ]
+    },
+    "accolades":{
+      "accolades":[
+        {
+          "text": "Three Distinction Awards from PES University for good performance in academics."
+        },
+        {
+          "text": "Volunteer, Prakalpa 2019 at PES University – actively assisted in building blocks competition wherein Students had to assemble the PC’s from scratch."
+        },
+        {
+          "text": "Volunteer, Pi Day 2019 at PES University – actively helped in running the events."
+        },
+        {
+          "text": "Attended 3-day India Mobile Congress 2019 Workshop co-sponsored by Qogno and PES University at MCA Seminar Hall, PES University"
+        }
+      ]
+    }
+  }
+  
