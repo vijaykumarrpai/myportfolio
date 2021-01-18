@@ -20,7 +20,7 @@ class Accolades extends Component {
          <div className="row">
 
             <div className="two columns header-col">
-               <h1><span>Accolades</span></h1>
+               <h1>Accolades</h1>
             </div>
 
             <div className="ten columns flex-container">
