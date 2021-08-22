@@ -1,10 +1,10 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Associate Software Engineer at Augmento Labs | Former Intern at Nokia | MCA Graduate | Full Stack Web Developer ",
-      "description": "I can build and deploy Web Applications on the cloud of MERN stack. Also, comfortable working with Data Science / Machine Learning",
+      "occupation": "Associate Software Engineer at Augmento Labs Pvt Ltd | Former Intern at Nokia | MCA Graduate - PES University - Class of 2020",
+      "description": "I can build and deploy Web Applications on the cloud using the MERN stack. Also, comfortable working with Data Science / Machine Learning",
       "image": "profilepic.jpg",
-      "bio": "I am a Foodie, Auto Enthusiast, Traveler, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building web applications with MERN stack.",
+      "bio": "I am a Foodie, Automobile Enthusiast, Love to Travel, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building Web Applications with the MERN stack",
       "contactmessage": "Feel free to contact me",
       "email": "vijaykumarrpai@gmail.com",
       "phone": "+91-8861372156",
@@ -15,7 +15,7 @@
         "zip":  "560100"
       },
       "website": "",
-      "resumedownload": "https://drive.google.com/file/d/1TJ8KH5B4kPShSC_fqUyhiIzucWu8tnoh/view?usp=sharing",
+      "resumedownload": "https://drive.google.com/file/d/1jfete03-Wr0oL2nRegkSPYyvJMu8kkHr/view?usp=sharing",
       "social":[
         {
           "name": "facebook",
@@ -62,16 +62,22 @@
       ],
       "work":[
         {
-          "company": "Augmento Labs",
+          "company": "Augmento Labs Pvt Ltd",
+          "title": "Associate Software Engineer",
+          "years": "January 2021 – Present",
+          "description": "I am currently working with the team as Contract Service Worker for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly involved in back-end development. Also, I have experience writing Unit Test cases for .NET Web API using xUnit and FakeItEasy. I have also done PSR Testing using Apache JMeter."
+        },
+        {
+          "company": "Augmento Labs Pvt Ltd",
           "title": "Full Stack Web Developer Intern",
           "years": "August 2020 - December 2020",
-          "description": "Worked closely with the team in developing and deploying Full Stack Web Application using MERN stack in which I am actively responsible for the frontend and backend API integration. Also, I have been given additional responsibilities such as deploying the application on Heroku, React testing using Jest and Enzyme etc."
+          "description": "I worked closely with the team to develop and deploy Web Applications using the MERN stack in which I am actively responsible for the front-end and back-end development. Also, I had been given additional responsibilities such as deploying the application on Heroku and writing Unit Test cases for React using Jest and Enzyme. Also, I built a Resume Parser Application using Python3 to read the data from the Resumes and CVs of a candidate."
         },
         {
           "company": "Nokia",
           "title": "Student Trainee",
           "years": "January 2020 - July 2020",
-          "description": "Generated Sub Function, Log Level, Actual Log Print and Number of Occurrences from the LTE L2, LTE L3 and OAM Log files and generated report using Python and their supporting libraries like Numpy, Pandas etc to analyze the call load on the server."
+          "description": "I worked on LTE L2, LTE L3 and OAM Logs to analyze the mobile network load on the servers. Generated Sub Function, Log Level, Actual Log Print and Number of Occurrences from the log files and generated report. Developed an application using Python3 and their supporting libraries like Numpy, Pandas etc to automate the generation of web reports with Femto serial number, From Date/Time, To Date/Time as input from Log machine."
         }
       ],
       "skills":[
@@ -84,8 +90,8 @@
           "level": "60%"
         },
         {
-          "name": "React",
-          "level": "80%"
+          "name": "React.js",
+          "level": "70%"
         },
         {
           "name": "Node.js",
@@ -93,18 +99,26 @@
         },
         {
           "name": "Git",
-          "level": "70%"
+          "level": "90%"
         },
         {
           "name": "Machine Learning",
           "level": "70%"
         },
         {
-          "name": "Iot",
+          "name": "IoT",
           "level": "60%"
         },
         {
           "name": "Cloud Computing",
+          "level": "60%"
+        },
+        {
+          "name": ".NET",
+          "level": "50%"
+        },
+        {
+          "name": "MySQL",
           "level": "60%"
         }
       ]
@@ -114,36 +128,39 @@
         {
           "title": "Simple Weather App",
           "category": "A simple weather app that allows you to get current weather forecast based on the city the user enters.",
-          "image": "simple-weather-app.png",
+          "image": "simple-weather-app.jpg",
           "url": "https://vijaykumarrpai.github.io/simple-weather-app/"
         },
         {
           "title": "Caption Generator",
           "category": "Caption Generator is a Machine Learning Application that identifies the action portrayed in the given image. The generated caption will describe about the image that will say what kind of actions is taking place in it. This project involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.",
-          "image": "caption-generator.png",
+          "image": "caption-generator.jpg",
           "url": "https://github.com/vijaykumarrpai/Caption-Generator"
         },
         {
           "title": "Bulk Email Aggregator",
           "category": "Bulk Email Aggregator is a web application that is used to provide a paid service to the end user who is CRM. This will enable them to send bulk emails for collecting feedback of their own electronic products once they do payment through the Stripe payment gateway. With the use of Google OAuth authentication, we have enhanced the authentication in the app.",
-          "image": "bulk-email-aggregator.png",
+          "image": "bulk-email-aggregator.jpg",
           "url": "https://github.com/vijaykumarrpai/bulk-email-aggregator"
         },
         {
           "title": "Alligator",
           "category": "An IOT Project developed to monitor hostile activities in the militarized zone. As soon as the PIR sensor detects some motion, it activates the camera and starts monitoring the environment. If the activity seems to be suspicious, the camera captures the image and stores it onto the cloud for future investigation. Simultaneously it will alert the authorities to take necessary actions.",
-          "image": "alligator.png"
+          "image": "alligator.jpg"
         },
         {
           "title": "Optimizing Courier Delivery System",
           "category": "A full stack web application that can be used by delivery executives to get optimized route among list of addresses. Developed important features like admin panel, agent panel with integrated Google Maps.",
-          "image":"optimizing-courier-delivery-system.png",
+          "image":"optimizing-courier-delivery-system.jpg",
           "url": "https://github.com/vijaykumarrpai/courier-system"
         }
       ]
     },
     "accolades":{
       "accolades":[
+        {
+          "text": "SPOT AWARD for Outstanding Work from Augmento Labs Pvt Ltd for March 2021."
+        },
         {
           "text": "Four Distinction Awards from PES University for good performance in academics."
         },
