@@ -1,8 +1,8 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Associate Software Engineer at Augmento Labs Pvt Ltd | Former Intern at Nokia | MCA Graduate - PES University - Class of 2020",
-      "description": "I can build and deploy Web Applications on the cloud using the MERN stack. Also, comfortable working with Data Science / Machine Learning",
+      "occupation": "Associate Software Engineer @ Augmento Labs | Ex-Nokia | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
+      "description": "I know a thing or two about startups as I am currently working in one. I have quite a bit of experience in Full Stack Web Development (MERN). I also know about DevOps, IoT, Data Analytics and Machine Learning. So with the following knowledge, I should be able to contribute good and be an asset to your company",
       "image": "profilepic.jpg",
       "bio": "I am a Foodie, Automobile Enthusiast, Love to Travel, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building Web Applications with the MERN stack",
       "contactmessage": "Feel free to contact me",
@@ -51,13 +51,13 @@
           "school": "PES University, Bangalore",
           "degree": "Master of Computer Applications",
           "graduated": "July 2020",
-          "description": "Specialized in Data Science. Learned in-depth about Web Development, Machine Learning, IoT, Cloud Computing."
+          "description": "Completed three academic projects successfully with one in Web Development, IoT and Machine Learning. Throughout my Masters, I received Four Distinction Awards for my academic performance."
         },
         {
           "school": "T.John College, Bangalore",
           "degree": "Bachelor of Computer Applications",
           "graduated": "May 2016",
-          "description": "Learned about Computer and how applications can be developed."
+          "description": "The course introduced me to the world of computer science with knowledge in OS, Data Structures and Web Development. Learned programming languages such as HTML, CSS, C, C++, Java, MySQL."
         }
       ],
       "work":[
@@ -65,19 +65,19 @@
           "company": "Augmento Labs Pvt Ltd",
           "title": "Associate Software Engineer",
           "years": "January 2021 – Present",
-          "description": "I am currently working with the team as Contract Service Worker for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly involved in back-end development. Also, I have experience writing Unit Test cases for .NET Web API using xUnit and FakeItEasy. I have also done PSR Testing using Apache JMeter."
+          "description": "Augmento Labs is a next-gen fast-growing startup software services organization that specializes in providing unique scalable solutions with cost to value advantages that are driven by innovation. Working with the team as Contract Service Worker for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly responsible for front-end development using React.js. I have also developed APIs using .NET and Node.js. My additional responsibilities are: fixing identified bugs, explaining the project workflow, giving demos to clients and deploying the application to Dev, QA and Staging Environments. Following Agile Software Development Methodology for code review and production processes. Mentoring interns from various backgrounds with front-end development using React.js and TypeScript. As a service to the company, I am also part of React interview panel for the screening round."
         },
         {
           "company": "Augmento Labs Pvt Ltd",
           "title": "Full Stack Web Developer Intern",
           "years": "August 2020 - December 2020",
-          "description": "I worked closely with the team to develop and deploy Web Applications using the MERN stack in which I am actively responsible for the front-end and back-end development. Also, I had been given additional responsibilities such as deploying the application on Heroku and writing Unit Test cases for React using Jest and Enzyme. Also, I built a Resume Parser Application using Python3 to read the data from the Resumes and CVs of a candidate."
+          "description": "I worked closely with the team to develop and deploy Web Applications using the MERN stack in which I was actively responsible for the front-end and back-end development. Also, I had been given additional responsibilities such as deploying the application on Heroku and writing Unit Test cases for React using Jest and Enzyme. In addition, I also built a Resume Parser Application using Python 3 and supporting popular libraries to extract relevant information from the Resume or CV of the candidates applying to our organization."
         },
         {
           "company": "Nokia",
           "title": "Student Trainee",
           "years": "January 2020 - July 2020",
-          "description": "I worked on LTE L2, LTE L3 and OAM Logs to analyze the mobile network load on the servers. Generated Sub Function, Log Level, Actual Log Print and Number of Occurrences from the log files and generated report. Developed an application using Python3 and their supporting libraries like Numpy, Pandas etc to automate the generation of web reports with Femto serial number, From Date/Time, To Date/Time as input from Log machine."
+          "description": "I worked on LTE L2, LTE L3 and OAM Logs to analyze the mobile network load on the servers. Generated Sub Function, Log Level, Actual Log Print and Number of Occurrences from the log files and generated report. Developed an application using Python 3 and their supporting libraries like Numpy, Pandas etc to automate the generation of web reports with Femto serial number, From Date/Time, To Date/Time as input from Log machine."
         }
       ],
       "skills":[
@@ -86,11 +86,11 @@
           "level": "70%"
         },
         {
-          "name": "Java",
-          "level": "60%"
+          "name": "React.js",
+          "level": "70%"
         },
         {
-          "name": "React.js",
+          "name": "Redux",
           "level": "70%"
         },
         {
@@ -98,11 +98,35 @@
           "level": "70%"
         },
         {
+          "name": "MongoDB",
+          "level": "50%"
+        },
+        {
+          "name": "Express.js",
+          "level": "70%"
+        },
+        {
+          "name": "TypeScript",
+          "level": "70%"
+        },
+        {
+          "name": ".NET",
+          "level": "50%"
+        },
+        {
+          "name": "MySQL",
+          "level": "60%"
+        },
+        {
           "name": "Git",
           "level": "90%"
         },
         {
-          "name": "Machine Learning",
+          "name": "Machine Learning/Data Science",
+          "level": "70%"
+        },
+        {
+          "name": "DevOps",
           "level": "70%"
         },
         {
@@ -111,14 +135,6 @@
         },
         {
           "name": "Cloud Computing",
-          "level": "60%"
-        },
-        {
-          "name": ".NET",
-          "level": "50%"
-        },
-        {
-          "name": "MySQL",
           "level": "60%"
         }
       ]
