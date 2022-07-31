@@ -1,10 +1,10 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Associate Software Engineer @ Augmento Labs | Ex-Nokia | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
-      "description": "I know a thing or two about startups as I am currently working in one. I have quite a bit of experience in Full Stack Web Development (MERN). I also know about DevOps, IoT, Data Analytics and Machine Learning. So with the following knowledge, I should be able to contribute good and be an asset to your company",
+      "occupation": "Systems Engineer, FSDGTL @ Infosys | Ex-Augmento Labs | Ex-Nokia | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
+      "description": "I know a thing or two about startups as I had previously worked in one. I have quite a bit of experience in Full Stack Web Development (MERN). I also know about DevOps, IoT, Data Analytics and Machine Learning. So with the following knowledge, I should be able to contribute well and be an asset to your company",
       "image": "profilepic.jpg",
-      "bio": "I am a Foodie, Automobile Enthusiast, Love to Travel, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building Web Applications with the MERN stack",
+      "bio": "I am a Foodie, Automobile Enthusiast, Love to Travel, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building Web Applications using various tech stacks",
       "contactmessage": "Feel free to contact me",
       "email": "vijaykumarrpai@gmail.com",
       "phone": "+91-8861372156",
@@ -62,10 +62,16 @@
       ],
       "work":[
         {
+          "company": "Infosys",
+          "title": "Systems Engineer, FSDGTL",
+          "years": "June 2022 – Present",
+          "description": "Collaborating with the team as UI Developer to develop Web Apps using Angular."
+        },
+        {
           "company": "Augmento Labs Pvt Ltd",
           "title": "Associate Software Engineer",
-          "years": "January 2021 – Present",
-          "description": "Augmento Labs is a next-gen fast-growing startup software services organization that specializes in providing unique scalable solutions with cost to value advantages that are driven by innovation. Working with the team as Contract Service Worker for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly responsible for front-end development using React.js. I have also developed APIs using .NET and Node.js. My additional responsibilities are: fixing identified bugs, explaining the project workflow, giving demos to clients and deploying the application to Dev, QA and Staging Environments. Following Agile Software Development Methodology for code review and production processes. Mentoring interns from various backgrounds with front-end development using React.js and TypeScript. As a service to the company, I am also part of React interview panel for the screening round."
+          "years": "January 2021 – May 2022",
+          "description": "Augmento Labs is a next-gen fast-growing startup software services organization that specializes in providing unique scalable solutions with cost to value advantages that are driven by innovation. Collaborated with the team as UI Developer for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly responsible for front-end development using React.js and TypeScript. I have also developed APIs using ASP.NET Core Web API and Node.js. My additional responsibilities were: Fixing identified bugs, explaining the project workflow, giving demos to clients and deploying the application to Dev, QA and Staging Environments. Followed Agile Software Development Methodology for code reviews and production processes. Mentored interns on various front-end and back-end technologies like React.js, TypeScript and ASP.NET Core Web API. Supervised a team of 5 on creating an internal project called RMS for my company. Single-handedly managed full-stack development and Data Analytics Integration. I was also part of React Interview Panel for the Screening Round."
         },
         {
           "company": "Augmento Labs Pvt Ltd",
@@ -174,6 +180,9 @@
     },
     "accolades":{
       "accolades":[
+        {
+          "text": "SPOT AWARD for On-Time Completion of Tasks and Supporting the Team Members from Augmento Labs Pvt Ltd for March 2022."
+        },
         {
           "text": "SPOT AWARD for Outstanding Work from Augmento Labs Pvt Ltd for March 2021."
         },
