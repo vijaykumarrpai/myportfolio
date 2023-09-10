@@ -1,7 +1,7 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Systems Engineer, FSDGTL @ Infosys | Ex-Augmento Labs | Ex-Nokia | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
+      "occupation": "Senior Systems Engineer, FSDGTL-NXT @ Infosys | Ex-Augmento Labs | Ex-Nokia | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
       "description": "I know a thing or two about startups as I had previously worked in one. I have quite a bit of experience in Full Stack Web Development (MERN). I also know about DevOps, IoT, Data Analytics and Machine Learning. So with the following knowledge, I should be able to contribute well and be an asset to your company",
       "image": "profilepic.jpg",
       "bio": "I am a Foodie, Automobile Enthusiast, Love to Travel, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building Web Applications using various tech stacks",
@@ -63,8 +63,14 @@
       "work":[
         {
           "company": "Infosys",
-          "title": "Systems Engineer, FSDGTL",
-          "years": "June 2022 – Present",
+          "title": "Senior Systems Engineer, FSDGTL-NXT",
+          "years": "March 2023 - Present",
+          "description": "Collaborating with the team as an Angular Developer helping in the Modernization of BAU Application into Angular to serve the existing purpose but with better User Experience, Feature Enhancement and Performance Improvement. Among various other screens that I had developed, there was a very complex screen that had over 26 client types. My Additional Responsibilities Include: Getting queries clarified with SMEs of the screens, fixing identified defects, RE & UI Dependency Analysis and giving various demos to clients. I was also part of FSDGTL Exploration Pod where we focused on building our own text comprehension and question-answering services using NLP for internal purposes over a period of 3 months as part of R&D."
+        },
+        {
+          "company": "Infosys",
+          "title": "Systems Engineer, FSDGTL-NXT",
+          "years": "June 2022 – March 2023",
           "description": "Collaborating with the team as UI Developer to develop Web Apps using Angular."
         },
         {
@@ -90,6 +96,10 @@
         {
           "name": "Python (Data Science)",
           "level": "70%"
+        },
+        {
+          "name": "Angular",
+          "level": "50%"
         },
         {
           "name": "React.js",
@@ -181,6 +191,15 @@
     "accolades":{
       "accolades":[
         {
+          "text": "INSTA AWARDS for thanking my effort and for going extra mile in terms of delivering the complex work assigned. We are in awe with the kind of difference you and some of your colleagues are bringing in positive way and sure team will look up to me from Infosys for February 2023."
+        },
+        {
+          "text": "4 Time Infosys (FSDGTL-NXT) Digital Munch Series Quiz Winner for FY 2023."
+        },
+        {
+          "text": "STARS OF DIGITAL AWARD for delivering highly complex screens after getting queries clarified with SME of the screens and for showing great attitude in delivering these screens from Infosys for the Month of November 2022."
+        },
+        {
           "text": "SPOT AWARD for On-Time Completion of Tasks and Supporting the Team Members from Augmento Labs Pvt Ltd for March 2022."
         },
         {
@@ -188,15 +207,6 @@
         },
         {
           "text": "Four Distinction Awards from PES University for good performance in academics."
-        },
-        {
-          "text": "Volunteer, Prakalpa 2019 at PES University – actively assisted in building blocks competition wherein Students had to assemble the PC’s from scratch."
-        },
-        {
-          "text": "Volunteer, Pi Day 2019 at PES University – actively helped in running the events."
-        },
-        {
-          "text": "Attended 3-day India Mobile Congress 2019 Workshop co-sponsored by Qogno and PES University at MCA Seminar Hall, PES University"
         }
       ]
     }
