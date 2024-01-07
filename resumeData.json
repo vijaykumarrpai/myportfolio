@@ -1,10 +1,10 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Senior Systems Engineer, FSDGTL-NXT @ Infosys | Ex-Augmento Labs | Ex-Nokia | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
-      "description": "I know a thing or two about startups as I had previously worked in one. I have quite a bit of experience in Full Stack Web Development (MERN). I also know about DevOps, IoT, Data Analytics and Machine Learning. So with the following knowledge, I should be able to contribute well and be an asset to your company",
+      "occupation": "Senior Systems Engineer, FSDGTL-NXT @ Infosys | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
+      "description": "I am an ML/AI Enthusiast with a total of 3+ years of experience in Web Development & Data Analytics/ML",
       "image": "profilepic.jpg",
-      "bio": "I am a Foodie, Automobile Enthusiast, Love to Travel, Gamer, Polyglot. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise are : Full Stack Web Development, Data Science, IoT, Cloud Computing. I love learning and working with Machine Learning and building Web Applications using various tech stacks",
+      "bio": "I am a Software Developer, Automobile and ML/AI Enthusiast, Foodie, Traveller and Gamer. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise include : Full Stack Web Development, Data Science, IoT and Cloud Computing.",
       "contactmessage": "Feel free to contact me",
       "email": "vijaykumarrpai@gmail.com",
       "phone": "+91-8861372156",
@@ -49,8 +49,8 @@
       "education":[
         {
           "school": "PES University, Bangalore",
-          "degree": "Master of Computer Applications",
-          "graduated": "July 2020",
+          "degree": "Master of Computer Applications - MCA, Data Science",
+          "graduated": "May 2020",
           "description": "Completed three academic projects successfully with one in Web Development, IoT and Machine Learning. Throughout my Masters, I received Four Distinction Awards for my academic performance."
         },
         {
