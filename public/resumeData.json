@@ -1,10 +1,10 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Senior Systems Engineer, FSDGTL-NXT @ Infosys | MCA in Data Science from PES University, Class of 2020 | Automobile and ML/AI Enthusiast",
-      "description": "I am an ML/AI Enthusiast with a total of 3+ years of experience in Web Development & Data Analytics/ML",
+      "occupation": "Associate Consultant (AI, Topaz CoE) @ Infosys | Infosys AI Ambassador (AI First & AI Tribe) | Automobile and ML/AI Enthusiast",
+      "description": "I am an ML/AI Enthusiast with a total of 4+ years of experience in Web Development & Data Analytics/ML",
       "image": "profilepic.jpg",
-      "bio": "I am a Software Developer, Automobile and ML/AI Enthusiast, Foodie, Traveller and Gamer. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise include : Full Stack Web Development, Data Science, IoT and Cloud Computing.",
+      "bio": "I am a Gen AI Developer, Automobile and ML/AI Enthusiast, Foodie, Wanderlust and Gamer. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise include : Data Science/ML/AI, IoT and Cloud Computing.",
       "contactmessage": "Feel free to contact me",
       "email": "vijaykumarrpai@gmail.com",
       "phone": "+91-8861372156",
@@ -34,7 +34,7 @@
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com/that_konkan_boy/",
+          "url": "https://www.instagram.com/techie_turbo_vijay/",
           "className": "fa fa-instagram"
         },
         {
@@ -47,6 +47,12 @@
     "resume":{
       "skillmessage": "Some of my skills which I am fond of",
       "education":[
+        {
+          "school": "Indian Institute of Management, Kozhikode",
+          "degree": "Professional Certificate Programme, Advanced Business Management",
+          "graduated": "Dec 2024",
+          "description": "People Management, Business Analytics for Decision Making, International Business, Financial Statement Analysis, Operations and Supply Chain Management, Entrepreneurship & Innovation"
+        },
         {
           "school": "PES University, Bangalore",
           "degree": "Master of Computer Applications - MCA, Data Science",
@@ -63,8 +69,14 @@
       "work":[
         {
           "company": "Infosys",
+          "title": "Associate Consultant (AI, Topaz CoE)",
+          "years": "September 2024 - Present",
+          "description": "Collaborating with the team as a Gen AI Developer to improve efficiency and accuracy of customer service operations through innovative solution leveraging GPT Vision and LLMs to automate the entire process, ensuring a seamless and efficient workflow using advanced Gen AI Models."
+        },
+        {
+          "company": "Infosys",
           "title": "Senior Systems Engineer, FSDGTL-NXT",
-          "years": "March 2023 - Present",
+          "years": "March 2023 - September 2024",
           "description": "Collaborating with the team as an Angular Developer helping in the Modernization of BAU Application into Angular to serve the existing purpose but with better User Experience, Feature Enhancement and Performance Improvement. Among various other screens that I had developed, there was a very complex screen that had over 26 client types. My Additional Responsibilities Include: Getting queries clarified with SMEs of the screens, fixing identified defects, RE & UI Dependency Analysis and giving various demos to clients. I was also part of FSDGTL Exploration Pod where we focused on building our own text comprehension and question-answering services using NLP for internal purposes over a period of 3 months as part of R&D."
         },
         {
@@ -76,14 +88,8 @@
         {
           "company": "Augmento Labs Pvt Ltd",
           "title": "Associate Software Engineer",
-          "years": "January 2021 – May 2022",
+          "years": "August 2020 – May 2022",
           "description": "Augmento Labs is a next-gen fast-growing startup software services organization that specializes in providing unique scalable solutions with cost to value advantages that are driven by innovation. Collaborated with the team as UI Developer for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly responsible for front-end development using React.js and TypeScript. I have also developed APIs using ASP.NET Core Web API and Node.js. My additional responsibilities were: Fixing identified bugs, explaining the project workflow, giving demos to clients and deploying the application to Dev, QA and Staging Environments. Followed Agile Software Development Methodology for code reviews and production processes. Mentored interns on various front-end and back-end technologies like React.js, TypeScript and ASP.NET Core Web API. Supervised a team of 5 on creating an internal project called RMS for my company. Single-handedly managed full-stack development and Data Analytics Integration. I was also part of React Interview Panel for the Screening Round."
-        },
-        {
-          "company": "Augmento Labs Pvt Ltd",
-          "title": "Full Stack Web Developer Intern",
-          "years": "August 2020 - December 2020",
-          "description": "I worked closely with the team to develop and deploy Web Applications using the MERN stack in which I was actively responsible for the front-end and back-end development. Also, I had been given additional responsibilities such as deploying the application on Heroku and writing Unit Test cases for React using Jest and Enzyme. In addition, I also built a Resume Parser Application using Python 3 and supporting popular libraries to extract relevant information from the Resume or CV of the candidates applying to our organization."
         },
         {
           "company": "Nokia",
@@ -94,8 +100,8 @@
       ],
       "skills":[
         {
-          "name": "Python (Data Science)",
-          "level": "70%"
+          "name": "Python (Data Science, Gen AI)",
+          "level": "90%"
         },
         {
           "name": "Angular",
@@ -139,7 +145,7 @@
         },
         {
           "name": "Machine Learning/Data Science",
-          "level": "70%"
+          "level": "90%"
         },
         {
           "name": "DevOps",
