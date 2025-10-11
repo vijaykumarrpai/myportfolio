@@ -1,10 +1,10 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Associate Consultant (AI, Topaz CoE) @ Infosys | Infosys AI Ambassador (AI First & AI Tribe) | Automobile and ML/AI Enthusiast",
-      "description": "I am an ML/AI Enthusiast with a total of 4+ years of experience in Web Development & Data Analytics/ML",
+      "occupation": "Senior Associate Consultant, AI Professional (Topaz CoE) @ Infosys | Pursuing Global MBA from University of Western Australia | PCP in Advanced Business Management from IIMK | Automobile and ML/AI Enthusiast | Gen AI Developer | Full Stack Developer | Data Science | IoT | Cloud Computing",
+      "description": "Senior Gen AI - Developer with 2 years of experience, developing Gen AI applications and integrating them with client ecosystems while mentoring and leading a team of 4 members and over 3 years of experience, analyzing and developing data-driven insights for business decisions while working in a team of 8-10 members. Skilled in Python, Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, Data Analytics, Angular, React.js, Redux, Node.js, Express.js, MongoDB, TypeScript and .NET. Adept at problem-solving and delivering high-quality solutions in fast-paced environments. Strong communication and collaboration skills with a passion for learning and innovation",
       "image": "profilepic.jpg",
-      "bio": "I am a Gen AI Developer, Automobile and ML/AI Enthusiast, Foodie, Wanderlust and Gamer. Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies. My area of expertise include : Data Science/ML/AI, IoT and Cloud Computing.",
+      "bio": "I am a passionate and dedicated professional with a strong background in Gen AI development and full-stack web development. With a keen interest in leveraging technology to solve real-world problems, I have honed my skills in various programming languages and frameworks. My journey in the tech world has been marked by continuous learning and a drive to stay updated with the latest advancements in AI and web technologies. I thrive in collaborative environments where I can contribute my expertise while also learning from others. Outside of work, I enjoy exploring new technologies, reading about advancements in AI, and indulging in my hobbies like automobile enthusiasm and photography.",
       "contactmessage": "Feel free to contact me",
       "email": "vijaykumarrpai@gmail.com",
       "phone": "+91-8861372156",
@@ -48,30 +48,42 @@
       "skillmessage": "Some of my skills which I am fond of",
       "education":[
         {
+          "school": "University of Western Australia, Perth, Australia",
+          "degree": "Global MBA",
+          "graduated": "Jan 2025 - Jan 2026",
+          "description": "Managerial Economics, Marketing, Managerial Finance, Leading Change and Transformation"
+        },
+        {
           "school": "Indian Institute of Management, Kozhikode",
           "degree": "Professional Certificate Programme, Advanced Business Management",
-          "graduated": "Dec 2024",
+          "graduated": "Jan 2024 - Dec 2024",
           "description": "People Management, Business Analytics for Decision Making, International Business, Financial Statement Analysis, Operations and Supply Chain Management, Entrepreneurship & Innovation"
         },
         {
           "school": "PES University, Bangalore",
           "degree": "Master of Computer Applications - MCA, Data Science",
-          "graduated": "May 2020",
+          "graduated": " September 2017 - May 2020",
           "description": "Completed three academic projects successfully with one in Web Development, IoT and Machine Learning. Throughout my Masters, I received Four Distinction Awards for my academic performance."
         },
         {
           "school": "T.John College, Bangalore",
           "degree": "Bachelor of Computer Applications",
-          "graduated": "May 2016",
+          "graduated": "June 2013 - May 2016",
           "description": "The course introduced me to the world of computer science with knowledge in OS, Data Structures and Web Development. Learned programming languages such as HTML, CSS, C, C++, Java, MySQL."
         }
       ],
       "work":[
         {
           "company": "Infosys",
-          "title": "Associate Consultant (AI, Topaz CoE)",
-          "years": "September 2024 - Present",
-          "description": "Collaborating with the team as a Gen AI Developer to improve efficiency and accuracy of customer service operations through innovative solution leveraging GPT Vision and LLMs to automate the entire process, ensuring a seamless and efficient workflow using advanced Gen AI Models."
+          "title": "Senior Associate Consultant, AI Professional (Topaz CoE) @ Infosys",
+          "years": "July 2025 - Present",
+          "description": "Collaborating with the team as a Gen AI Developer to develop and deploy Generative AI solutions using Large Language Models (LLMs) such as GPT-4, Claude, Bard and Llama2. Responsible for fine-tuning pre-trained models to meet specific business requirements, integrating these models into existing applications and workflows, and ensuring the scalability and reliability of deployed solutions. Additionally, I mentor junior team members on best practices in AI development and stay updated with the latest advancements in the field of Generative AI."
+        },
+        {
+          "company": "Infosys",
+          "title": "Associate Consultant, AI Professional (Topaz CoE) @ Infosys",
+          "years": "September 2024 - July 2025",
+          "description": "Collaborating with the team as a Gen AI Developer to develop and deploy Generative AI solutions using Large Language Models (LLMs) such as GPT-4, Claude, Bard and Llama2. Responsible for fine-tuning pre-trained models to meet specific business requirements, integrating these models into existing applications and workflows, and ensuring the scalability and reliability of deployed solutions. Additionally, I mentor junior team members on best practices in AI development and stay updated with the latest advancements in the field of Generative AI."
         },
         {
           "company": "Infosys",
@@ -83,7 +95,7 @@
           "company": "Infosys",
           "title": "Systems Engineer, FSDGTL-NXT",
           "years": "June 2022 – March 2023",
-          "description": "Collaborating with the team as UI Developer to develop Web Apps using Angular."
+          "description": "Collaborating with the team as a Angular Developer helping in the Modernization of BAU Application into React.js to serve the existing purpose but with better User Experience, Feature Enhancement and Performance Improvement. Developed various reusable components that can be used across multiple screens. My Additional Responsibilities Include: Getting queries clarified with SMEs of the screens, fixing identified defects, RE & UI Dependency Analysis and giving various demos to clients."
         },
         {
           "company": "Augmento Labs Pvt Ltd",
@@ -166,36 +178,39 @@
         {
           "title": "Simple Weather App",
           "category": "A simple weather app that allows you to get current weather forecast based on the city the user enters.",
-          "image": "simple-weather-app.jpg",
+            "image": "src/Assets/portfolio/simple-weather-app.jpg",
           "url": "https://vijaykumarrpai.github.io/simple-weather-app/"
         },
         {
           "title": "Caption Generator",
           "category": "Caption Generator is a Machine Learning Application that identifies the action portrayed in the given image. The generated caption will describe about the image that will say what kind of actions is taking place in it. This project involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.",
-          "image": "caption-generator.jpg",
+            "image": "src/Assets/portfolio/caption-generator.jpg",
           "url": "https://github.com/vijaykumarrpai/Caption-Generator"
         },
         {
           "title": "Bulk Email Aggregator",
           "category": "Bulk Email Aggregator is a web application that is used to provide a paid service to the end user who is CRM. This will enable them to send bulk emails for collecting feedback of their own electronic products once they do payment through the Stripe payment gateway. With the use of Google OAuth authentication, we have enhanced the authentication in the app.",
-          "image": "bulk-email-aggregator.jpg",
+            "image": "src/Assets/portfolio/bulk-email-aggregator.jpg",
           "url": "https://github.com/vijaykumarrpai/bulk-email-aggregator"
         },
         {
           "title": "Alligator",
           "category": "An IOT Project developed to monitor hostile activities in the militarized zone. As soon as the PIR sensor detects some motion, it activates the camera and starts monitoring the environment. If the activity seems to be suspicious, the camera captures the image and stores it onto the cloud for future investigation. Simultaneously it will alert the authorities to take necessary actions.",
-          "image": "alligator.jpg"
+            "image": "src/Assets/portfolio/alligator.jpg"
         },
         {
           "title": "Optimizing Courier Delivery System",
           "category": "A full stack web application that can be used by delivery executives to get optimized route among list of addresses. Developed important features like admin panel, agent panel with integrated Google Maps.",
-          "image":"optimizing-courier-delivery-system.jpg",
+            "image":"src/Assets/portfolio/optimizing-courier-delivery-system.jpg",
           "url": "https://github.com/vijaykumarrpai/courier-system"
         }
       ]
     },
     "accolades":{
       "accolades":[
+        {
+          "text": "INSTA AWARDS - Vijay's full stack skills has been a great asset in situations where we had to deliver without a dedicated Ul developer. His proactive attitude, willingness to take ownership, hard work has played a significant role in ensuring smooth delivery."
+        },
         {
           "text": "INSTA AWARDS for thanking my effort and for going extra mile in terms of delivering the complex work assigned. We are in awe with the kind of difference you and some of your colleagues are bringing in positive way and sure team will look up to me from Infosys for February 2023."
         },
