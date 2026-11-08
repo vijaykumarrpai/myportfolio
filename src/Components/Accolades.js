@@ -4,11 +4,11 @@ class Accolades extends Component {
   render() {
 
     if(this.props.data){
-      var accolades = this.props.data.accolades.map(function(accolades){
-        return  <li key={accolades.user}>
+      var accolades = this.props.data.accolades.map(function(accolade){
+        return  <li key={accolade.text}>
             <blockquote>
-               <p>{accolades.text}</p>
-               <cite>{accolades.user}</cite>
+               <p>{accolade.text}</p>
+               {accolade.user && <cite>{accolade.user}</cite>}
             </blockquote>
          </li>
       })
@@ -20,11 +20,11 @@ class Accolades extends Component {
          <div className="row">
 
             <div className="two columns header-col">
-               <h1>Accolades</h1>
+               <h1>Recognition &amp; Feedback</h1>
             </div>
 
             <div className="ten columns flex-container">
-                  <ul className="slides">
+                  <ul className="slides accolades-grid">
                       {accolades}
                   </ul>
                </div>

@@ -4,21 +4,16 @@ class Portfolio extends Component {
   render() {
 
     if (this.props.data) {
-      var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = 'images/portfolio/' + projects.image;
-        
+      var projects = this.props.data.projects.map(function (project, index) {
         return (
-          <div key={projects.title} className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
-                  </div>
-                </div>
-              </a>
+          <div key={project.title} className="columns portfolio-item">
+            <div className="item-wrap project-card">
+              <span className="project-number">{String(index + 1).padStart(2, '0')}</span>
+              <div className="portfolio-item-meta">
+                <h2>{project.title}</h2>
+                <p>{project.category}</p>
+                {project.url && <a className="project-link" href={project.url} target="_blank" rel="noopener noreferrer">Explore project <i className="fa fa-external-link" aria-hidden="true"></i></a>}
+              </div>
             </div>
           </div>
         )
@@ -32,7 +27,8 @@ class Portfolio extends Component {
 
           <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Selected AI &amp; Product Work</h1>
+            <p className="section-intro">A few examples of turning complex business problems into useful, measurable solutions.</p>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}

@@ -5,7 +5,7 @@ class Footer extends Component {
 
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+        return <li key={network.name}><a href={network.url} title={network.name} target="_blank" rel="noopener noreferrer"><i className={network.className} aria-hidden="true"></i><span>{network.name}</span></a></li>
       })
     }
 
@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2025 Vijaykumar R Pai</li>
+              <li>&copy; {new Date().getFullYear()} Vijaykumar R Pai</li>
            </ul>
 
         </div>

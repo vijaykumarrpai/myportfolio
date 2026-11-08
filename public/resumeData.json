@@ -1,10 +1,10 @@
 {
     "main": {
       "name": "Vijaykumar R Pai",
-      "occupation": "Senior Associate Consultant, AI Professional (Topaz CoE) @ Infosys | Pursuing Global MBA from University of Western Australia | PCP in Advanced Business Management from IIMK | Automobile and ML/AI Enthusiast | Gen AI Developer | Full Stack Developer | Data Science | IoT | Cloud Computing",
-      "description": "Senior Gen AI - Developer with 2 years of experience, developing Gen AI applications and integrating them with client ecosystems while mentoring and leading a team of 4 members and over 3 years of experience, analyzing and developing data-driven insights for business decisions while working in a team of 8-10 members. Skilled in Python, Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, Data Analytics, Angular, React.js, Redux, Node.js, Express.js, MongoDB, TypeScript and .NET. Adept at problem-solving and delivering high-quality solutions in fast-paced environments. Strong communication and collaboration skills with a passion for learning and innovation",
+      "occupation": "Data Scientist | Machine Learning | Generative AI | Predictive Analytics",
+      "description": "AI and Data Science professional with 6 years of experience across Automotive, Manufacturing, and FinTech. Building machine-learning and GenAI solutions associated with 40% faster troubleshooting and 55% less manual document processing.",
       "image": "profilepic.jpg",
-      "bio": "I am a passionate and dedicated professional with a strong background in Gen AI development and full-stack web development. With a keen interest in leveraging technology to solve real-world problems, I have honed my skills in various programming languages and frameworks. My journey in the tech world has been marked by continuous learning and a drive to stay updated with the latest advancements in AI and web technologies. I thrive in collaborative environments where I can contribute my expertise while also learning from others. Outside of work, I enjoy exploring new technologies, reading about advancements in AI, and indulging in my hobbies like automobile enthusiasm and photography.",
+      "bio": "I am an AI and Data Science professional with approximately 6 years of experience contributing to enterprise machine-learning, predictive analytics, and Generative AI solutions across Automotive, Manufacturing, and FinTech. I work with Python, model evaluation, Azure OpenAI, GPT-4o, RAG, semantic and vector search, and AI-powered document workflows. My work has contributed to solutions associated with approximately 40% lower troubleshooting time and 55% less manual document-processing effort. I currently work as a Technology Lead (AI) at Infosys, contributing to SDLC.AI's Agent Control Framework for autonomous application creation across Greenfield and Brownfield development.",
       "contactmessage": "Feel free to contact me",
       "email": "vijaykumarrpai@gmail.com",
       "phone": "+91-8861372156",
@@ -15,27 +15,12 @@
         "zip":  "560100"
       },
       "website": "",
-      "resumedownload": "https://drive.google.com/file/d/1jfete03-Wr0oL2nRegkSPYyvJMu8kkHr/view?usp=sharing",
+      "resumedownload": "https://drive.google.com/file/d/1tbN8rVhkypDtRwLmsIni_QsQcyT_RXMp/view?usp=sharing",
       "social":[
-        {
-          "name": "facebook",
-          "url": "https://www.facebook.com/vijaykumarr.pai/",
-          "className": "fa fa-facebook"
-        },
-        {
-          "name": "twitter",
-          "url": "https://twitter.com/Vijaykumarrpai",
-          "className": "fa fa-twitter"
-        },
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/vijaykumarrpai/",
           "className": "fa fa-linkedin"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com/techie_turbo_vijay/",
-          "className": "fa fa-instagram"
         },
         {
           "name": "github",
@@ -45,169 +30,134 @@
       ]
     },
     "resume":{
-      "skillmessage": "Some of my skills which I am fond of",
+      "skillmessage": "A practical toolkit spanning predictive machine learning, generative AI, application engineering, and stakeholder-focused delivery.",
       "education":[
         {
-          "school": "University of Western Australia, Perth, Australia",
+          "school": "University of Western Australia",
           "degree": "Global MBA",
-          "graduated": "Jan 2025 - Jan 2026",
-          "description": "Managerial Economics, Marketing, Managerial Finance, Leading Change and Transformation"
+          "graduated": "January 2025 - March 2026",
+          "description": "Grade: 5.833 / 7"
         },
         {
-          "school": "Indian Institute of Management, Kozhikode",
-          "degree": "Professional Certificate Programme, Advanced Business Management",
-          "graduated": "Jan 2024 - Dec 2024",
-          "description": "People Management, Business Analytics for Decision Making, International Business, Financial Statement Analysis, Operations and Supply Chain Management, Entrepreneurship & Innovation"
+          "school": "Indian Institute of Management Kozhikode",
+          "degree": "Professional Certificate Programme - Advanced Business Management",
+          "graduated": "January 2024 - December 2024",
+          "description": "Score: 93.2%"
         },
         {
-          "school": "PES University, Bangalore",
-          "degree": "Master of Computer Applications - MCA, Data Science",
-          "graduated": " September 2017 - May 2020",
-          "description": "Completed three academic projects successfully with one in Web Development, IoT and Machine Learning. Throughout my Masters, I received Four Distinction Awards for my academic performance."
-        },
-        {
-          "school": "T.John College, Bangalore",
-          "degree": "Bachelor of Computer Applications",
-          "graduated": "June 2013 - May 2016",
-          "description": "The course introduced me to the world of computer science with knowledge in OS, Data Structures and Web Development. Learned programming languages such as HTML, CSS, C, C++, Java, MySQL."
+          "school": "PES University, Bengaluru",
+          "degree": "Master of Computer Applications (Data Science)",
+          "graduated": "September 2017 - May 2020",
+          "description": "CGPA: 8.34"
         }
       ],
       "work":[
         {
           "company": "Infosys",
-          "title": "Senior Associate Consultant, AI Professional (Topaz CoE) @ Infosys",
-          "years": "July 2025 - Present",
-          "description": "Collaborating with the team as a Gen AI Developer to develop and deploy Generative AI solutions using Large Language Models (LLMs) such as GPT-4, Claude, Bard and Llama2. Responsible for fine-tuning pre-trained models to meet specific business requirements, integrating these models into existing applications and workflows, and ensuring the scalability and reliability of deployed solutions. Additionally, I mentor junior team members on best practices in AI development and stay updated with the latest advancements in the field of Generative AI."
-        },
-        {
-          "company": "Infosys",
-          "title": "Associate Consultant, AI Professional (Topaz CoE) @ Infosys",
-          "years": "September 2024 - July 2025",
-          "description": "Collaborating with the team as a Gen AI Developer to develop and deploy Generative AI solutions using Large Language Models (LLMs) such as GPT-4, Claude, Bard and Llama2. Responsible for fine-tuning pre-trained models to meet specific business requirements, integrating these models into existing applications and workflows, and ensuring the scalability and reliability of deployed solutions. Additionally, I mentor junior team members on best practices in AI development and stay updated with the latest advancements in the field of Generative AI."
-        },
-        {
-          "company": "Infosys",
-          "title": "Senior Systems Engineer, FSDGTL-NXT",
-          "years": "March 2023 - September 2024",
-          "description": "Collaborating with the team as an Angular Developer helping in the Modernization of BAU Application into Angular to serve the existing purpose but with better User Experience, Feature Enhancement and Performance Improvement. Among various other screens that I had developed, there was a very complex screen that had over 26 client types. My Additional Responsibilities Include: Getting queries clarified with SMEs of the screens, fixing identified defects, RE & UI Dependency Analysis and giving various demos to clients. I was also part of FSDGTL Exploration Pod where we focused on building our own text comprehension and question-answering services using NLP for internal purposes over a period of 3 months as part of R&D."
-        },
-        {
-          "company": "Infosys",
-          "title": "Systems Engineer, FSDGTL-NXT",
-          "years": "June 2022 – March 2023",
-          "description": "Collaborating with the team as a Angular Developer helping in the Modernization of BAU Application into React.js to serve the existing purpose but with better User Experience, Feature Enhancement and Performance Improvement. Developed various reusable components that can be used across multiple screens. My Additional Responsibilities Include: Getting queries clarified with SMEs of the screens, fixing identified defects, RE & UI Dependency Analysis and giving various demos to clients."
+          "title": "Technology Lead (AI) - Service Transformation",
+          "years": "June 2022 - Present",
+          "description": "Contribute to enterprise AI/ML and GenAI initiatives, translating business needs into solution requirements with engineering and business stakeholders. Contribute to SDLC.AI's Agent Control Framework for autonomous creation of production-grade Greenfield and Brownfield applications, including Tokenomics and a Telemetry Dashboard. Support solution evaluation across Automotive, Manufacturing, and FinTech; earned three promotions in approximately 3.7 years at Infosys. Selected project contributions include predictive fault detection using XGBoost and business-defined precision/recall thresholds; an LLM and vector-search diagnostic assistant associated with approximately 40% lower troubleshooting time; AI document extraction and multistate validation associated with approximately 55% less manual processing; an AI e-delivery onboarding assistant; and Angular modernization for a FinTech client."
         },
         {
           "company": "Augmento Labs Pvt Ltd",
           "title": "Associate Software Engineer",
-          "years": "August 2020 – May 2022",
-          "description": "Augmento Labs is a next-gen fast-growing startup software services organization that specializes in providing unique scalable solutions with cost to value advantages that are driven by innovation. Collaborated with the team as UI Developer for Honeywell to develop and deploy Web Applications using various tech stacks in which I am majorly responsible for front-end development using React.js and TypeScript. I have also developed APIs using ASP.NET Core Web API and Node.js. My additional responsibilities were: Fixing identified bugs, explaining the project workflow, giving demos to clients and deploying the application to Dev, QA and Staging Environments. Followed Agile Software Development Methodology for code reviews and production processes. Mentored interns on various front-end and back-end technologies like React.js, TypeScript and ASP.NET Core Web API. Supervised a team of 5 on creating an internal project called RMS for my company. Single-handedly managed full-stack development and Data Analytics Integration. I was also part of React Interview Panel for the Screening Round."
-        },
-        {
-          "company": "Nokia",
-          "title": "Student Trainee",
-          "years": "January 2020 - July 2020",
-          "description": "I worked on LTE L2, LTE L3 and OAM Logs to analyze the mobile network load on the servers. Generated Sub Function, Log Level, Actual Log Print and Number of Occurrences from the log files and generated report. Developed an application using Python 3 and their supporting libraries like Numpy, Pandas etc to automate the generation of web reports with Femto serial number, From Date/Time, To Date/Time as input from Log machine."
+          "years": "August 2020 - May 2022",
+          "description": "Built an AI-powered NLP resume parser to reduce manual candidate-data entry and support recruitment workflows. Led a five-member team delivering analytics-enabled management systems, APIs, and web applications. Contributed to semantic search, automated ticket and email categorization, and an image-captioning system using CNN-LSTM techniques."
         }
       ],
       "skills":[
         {
-          "name": "Python (Data Science, Gen AI)",
-          "level": "90%"
+          "name": "Python"
         },
         {
-          "name": "Angular",
-          "level": "50%"
+          "name": "SQL"
         },
         {
-          "name": "React.js",
-          "level": "70%"
+          "name": "R"
         },
         {
-          "name": "Redux",
-          "level": "70%"
+          "name": "XGBoost"
         },
         {
-          "name": "Node.js",
-          "level": "70%"
+          "name": "LightGBM"
         },
         {
-          "name": "MongoDB",
-          "level": "50%"
+          "name": "Random Forest"
         },
         {
-          "name": "Express.js",
-          "level": "70%"
+          "name": "Machine Learning"
         },
         {
-          "name": "TypeScript",
-          "level": "70%"
+          "name": "Azure OpenAI & GPT-4o"
         },
         {
-          "name": ".NET",
-          "level": "50%"
+          "name": "Prompt Engineering"
         },
         {
-          "name": "MySQL",
-          "level": "60%"
+          "name": "RAG & Vector Search"
         },
         {
-          "name": "Git",
-          "level": "90%"
+          "name": "AI Document Extraction"
         },
         {
-          "name": "Machine Learning/Data Science",
-          "level": "90%"
+          "name": "REST APIs"
         },
         {
-          "name": "DevOps",
-          "level": "70%"
+          "name": "React & Angular"
         },
         {
-          "name": "IoT",
-          "level": "60%"
+          "name": "JavaScript/TypeScript"
         },
         {
-          "name": "Cloud Computing",
-          "level": "60%"
+          "name": "Git"
+        },
+        {
+          "name": "Data Validation"
         }
       ]
     },
     "portfolio":{
       "projects": [
         {
-          "title": "Simple Weather App",
-          "category": "A simple weather app that allows you to get current weather forecast based on the city the user enters.",
-            "image": "src/Assets/portfolio/simple-weather-app.jpg",
-          "url": "https://vijaykumarrpai.github.io/simple-weather-app/"
+          "title": "Predictive Fault Detection & Analytics",
+          "category": "US engine manufacturer · Compared machine-learning approaches, including XGBoost, against business-defined precision, recall, and operational thresholds to support proactive service decisions.",
+          "image": "",
+          "url": ""
         },
         {
-          "title": "Caption Generator",
-          "category": "Caption Generator is a Machine Learning Application that identifies the action portrayed in the given image. The generated caption will describe about the image that will say what kind of actions is taking place in it. This project involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.",
-            "image": "src/Assets/portfolio/caption-generator.jpg",
-          "url": "https://github.com/vijaykumarrpai/Caption-Generator"
+          "title": "RAG-Based Diagnostic Assistant",
+          "category": "US automotive client · Contributed to an LLM and vector-search assistant that helps dealership technicians find relevant technical documentation; associated with approximately 40% lower troubleshooting time.",
+          "image": "",
+          "url": ""
         },
         {
-          "title": "Bulk Email Aggregator",
-          "category": "Bulk Email Aggregator is a web application that is used to provide a paid service to the end user who is CRM. This will enable them to send bulk emails for collecting feedback of their own electronic products once they do payment through the Stripe payment gateway. With the use of Google OAuth authentication, we have enhanced the authentication in the app.",
-            "image": "src/Assets/portfolio/bulk-email-aggregator.jpg",
-          "url": "https://github.com/vijaykumarrpai/bulk-email-aggregator"
+          "title": "AI Document Extraction & Validation",
+          "category": "Lemon Law · Helped shape an AI-assisted workflow to extract contract details and validate them against multistate business rules, contributing to approximately 55% less manual document-processing effort.",
+          "image": "",
+          "url": ""
         },
         {
-          "title": "Alligator",
-          "category": "An IOT Project developed to monitor hostile activities in the militarized zone. As soon as the PIR sensor detects some motion, it activates the camera and starts monitoring the environment. If the activity seems to be suspicious, the camera captures the image and stores it onto the cloud for future investigation. Simultaneously it will alert the authorities to take necessary actions.",
-            "image": "src/Assets/portfolio/alligator.jpg"
+          "title": "AI E-Delivery Conversational Integration",
+          "category": "US automotive client · Supported the integration roadmap for an AI-powered onboarding assistant and helped define engagement and resolution measures.",
+          "image": "",
+          "url": ""
         },
         {
-          "title": "Optimizing Courier Delivery System",
-          "category": "A full stack web application that can be used by delivery executives to get optimized route among list of addresses. Developed important features like admin panel, agent panel with integrated Google Maps.",
-            "image":"src/Assets/portfolio/optimizing-courier-delivery-system.jpg",
-          "url": "https://github.com/vijaykumarrpai/courier-system"
+          "title": "Angular Application Modernization",
+          "category": "US FinTech client · Modernized legacy financial application workflows with Angular, supporting modularity, maintainability, and usability.",
+          "image": "",
+          "url": ""
         }
       ]
     },
     "accolades":{
       "accolades":[
+        {
+          "text": "Client & Infosys Leadership Appreciation - Good work done in SDLC.ai deployment pods. Thank you for amazing and path breaking work done for SDLC.ai deployment pods. Your work is appreciated and recognized by Infosys leadership and client leadership."
+        },
+        {
+          "text": "INSTA AWARDS - Vijay showed great dedication, professionalism, punctuality and ownership handling most of the work and ensuring successful delivery."
+        },
         {
           "text": "INSTA AWARDS - Vijay's full stack skills has been a great asset in situations where we had to deliver without a dedicated Ul developer. His proactive attitude, willingness to take ownership, hard work has played a significant role in ensuring smooth delivery."
         },
